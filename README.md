@@ -1,2 +1,2 @@
 # poetry-template
-app teplate using poetry
+app template using poetry
